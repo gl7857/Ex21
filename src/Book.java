@@ -1,6 +1,5 @@
 public class Book extends Product{
 
-
     public Book(String name, double price, String description, String author){
         super(name, price, description);
     }
