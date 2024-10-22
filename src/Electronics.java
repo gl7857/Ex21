@@ -1,5 +1,6 @@
 public class Electronics extends Product{
 
+
     public Electronics(String name, double price, String description, String author){
         super(name, price, description);
     }
